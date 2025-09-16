@@ -1,0 +1,67 @@
+{
+  "category": "xmpp-servers",
+  "created_date": "2025-09-15T22:48:58.783464",
+  "default_ports": [
+    80,
+    443,
+    2048,
+    5222
+  ],
+  "dependencies": [
+    "lua5.2",
+    "lua-socket",
+    "lua-expat"
+  ],
+  "description": "Prosody is a free and open-source XMPP Server. Modern XMPP communication server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/xmpp-servers/prosody",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/xmpp-servers/prosody",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.783490",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "prosody",
+  "repository_url": "https://github.com/howtomgr/prosody",
+  "spec_version": "2.0",
+  "subcategory": "xmpp-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "xmpp-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "Prosody Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/xmpp-servers/prosody"
+}
